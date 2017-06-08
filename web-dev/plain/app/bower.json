@@ -1,0 +1,22 @@
+{
+  "name": "Snake",
+  "homepage": "https://github.com/xChenny/Snake",
+  "authors": [
+    "Andrew <andrew.chen923@gmail.com>"
+  ],
+  "description": "Your everyday pathfinder",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "bootstrap4#^3.3.7",
+    "react": "^15.5.4",
+    "backbone": "^1.3.3"
+  }
+}
